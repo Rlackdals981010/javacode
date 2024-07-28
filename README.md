@@ -31,7 +31,12 @@
 ---
 
 **20240728**
-
+#### 자바
 [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
 
 [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+
+#### sql
+[자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138)
+
+[자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342)
