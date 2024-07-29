@@ -33,6 +33,8 @@
 1. [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138)
 2. [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342)
 
+---
+
 **20240729**
 #### 자바
 1. [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
