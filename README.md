@@ -40,10 +40,11 @@
 1. [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
 2. [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
 3. [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
-4. [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
-5. [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
-6. [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
-7. [2016](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
+4. [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+5. [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
+6. [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
+7. [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
+8. [2016](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
 
 #### sql
 1. [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)
