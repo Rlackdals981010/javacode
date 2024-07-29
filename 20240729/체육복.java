@@ -17,13 +17,16 @@ class 체육복 {
             }
         }
 
+        int idx=0;
+
         //빌려주기
         for(int i=0;i<lost.length;i++){
-            for(int j=0;j<reserve.length;j++){
+            for(int j=idx;j<reserve.length;j++){
                 if(lost[i]-1==reserve[j]||lost[i]+1==reserve[j]){
                     reserve[j]=-1;
                     lost[i]=-1;
                     ret++;
+                    idx=j+1;
                     break;
                 }
             }
