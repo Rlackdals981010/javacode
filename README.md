@@ -48,3 +48,14 @@
 
 #### sql
 1. [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)
+
+---
+
+**20240730**
+#### 자바
+1. [문자열나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
+2. [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
+3. [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
+4. [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+#### sql
+1. [우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)
