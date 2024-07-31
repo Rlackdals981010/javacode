@@ -59,3 +59,11 @@
 4. [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 #### sql
 1. [우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)
+
+---
+
+**20240731**
+#### 자바
+1. [대충만든자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
+#### sql
+1. [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671)
