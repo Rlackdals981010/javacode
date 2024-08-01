@@ -67,3 +67,12 @@
 1. [대충만든자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
 #### sql
 1. [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671)
+
+---
+
+**20240801**
+#### 자바
+1. [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
+2. [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
+#### sql
+1. [주문량이 많은 아이스크림들 조회](https://school.programmers.co.kr/learn/courses/30/lessons/133027)
