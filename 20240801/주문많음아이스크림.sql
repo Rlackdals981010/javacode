@@ -2,7 +2,7 @@ select FLAVOR
 from(
         select *
         from FIRST_HALF
-        union ALL
+        union ALL  --union 알아둘것.
         select *
         from JULY
     )a
