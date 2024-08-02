@@ -76,3 +76,11 @@
 2. [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
 #### sql
 1. [주문량이 많은 아이스크림들 조회](https://school.programmers.co.kr/learn/courses/30/lessons/133027)
+
+
+---
+**20240802**
+#### 자바
+1. [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+#### sql
+1. [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)
