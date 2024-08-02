@@ -82,5 +82,6 @@
 **20240802**
 #### 자바
 1. [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+2. [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)
 #### sql
 1. [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)
