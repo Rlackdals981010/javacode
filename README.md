@@ -85,3 +85,8 @@
 2. [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)
 #### sql
 1. [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)
+2. [성분구분아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133026)
+3. [루시엘라](https://school.programmers.co.kr/learn/courses/30/lessons/59046)
+4. [조건에 맞는 도서리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853)
+5. [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136)
+6. [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668)
