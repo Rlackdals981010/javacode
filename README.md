@@ -90,3 +90,8 @@
 4. [조건에 맞는 도서리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853)
 5. [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136)
 6. [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668)
+
+---
+**20240802**
+#### 자바
+1. [성격유형테스트](https://school.programmers.co.kr/learn/courses/30/lessons/118666);
