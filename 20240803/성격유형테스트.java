@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-class Solution {
+class 성격유형테스트 {
     public String solution(String[] survey, int[] choices) {
         HashMap<Character, Integer> kakao = new HashMap<>();
         kakao.put('R', 0);
@@ -33,3 +33,5 @@ class Solution {
         return sb.toString();
     }
 }
+
+//getOrDefault 알아보기
