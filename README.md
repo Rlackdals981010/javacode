@@ -92,6 +92,10 @@
 6. [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668)
 
 ---
-**20240802**
+**20240803**
 #### 자바
-1. [성격유형테스트](https://school.programmers.co.kr/learn/courses/30/lessons/118666);
+1. [성격유형테스트](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+---
+**20240804**
+#### 자바
+1. [바탕화면정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
