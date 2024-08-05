@@ -99,3 +99,10 @@
 **20240804**
 #### 자바
 1. [바탕화면정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
+---
+**20240805**
+#### 자바
+1. [개인정보수집](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+#### sql
+1. [오프라인온라인](https://school.programmers.co.kr/learn/courses/30/lessons/131537)
+2. [가격대별](https://school.programmers.co.kr/learn/courses/30/lessons/131530)
