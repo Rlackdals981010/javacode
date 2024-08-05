@@ -107,3 +107,6 @@
 1. [오프라인온라인](https://school.programmers.co.kr/learn/courses/30/lessons/131537)
 2. [가격대별](https://school.programmers.co.kr/learn/courses/30/lessons/131530)
 3. [3월에 태어난](https://school.programmers.co.kr/learn/courses/30/lessons/131120)
+4. [대여기록](https://school.programmers.co.kr/learn/courses/30/lessons/157341)
+5. [즐겨찾기](https://school.programmers.co.kr/learn/courses/30/lessons/131123)
+6. [식품분류](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
