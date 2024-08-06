@@ -110,3 +110,10 @@
 4. [대여기록](https://school.programmers.co.kr/learn/courses/30/lessons/157341)
 5. [즐겨찾기](https://school.programmers.co.kr/learn/courses/30/lessons/131123)
 6. [식품분류](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
+
+---
+**20240806**
+#### 자바
+1. [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
+#### sql
+1. [중고거래댓글](https://school.programmers.co.kr/learn/courses/30/lessons/164673)
