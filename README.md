@@ -117,3 +117,6 @@
 1. [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
 #### sql
 1. [중고거래댓글](https://school.programmers.co.kr/learn/courses/30/lessons/164673)
+2. [5월식품총매출](https://school.programmers.co.kr/learn/courses/30/lessons/131117)
+3. [없어진 기록 찾](https://school.programmers.co.kr/learn/courses/30/lessons/59042)
+4. [과일아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133025)
