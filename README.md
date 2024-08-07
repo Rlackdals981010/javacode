@@ -120,3 +120,11 @@
 2. [5월식품총매출](https://school.programmers.co.kr/learn/courses/30/lessons/131117)
 3. [없어진 기록 찾](https://school.programmers.co.kr/learn/courses/30/lessons/59042)
 4. [과일아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133025)
+
+---
+**20240807**
+#### 자바
+1. [공원산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
+#### sql
+1. [입양시각2](https://school.programmers.co.kr/learn/courses/30/lessons/59413)
+
