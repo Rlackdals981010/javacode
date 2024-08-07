@@ -127,4 +127,5 @@
 1. [공원산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
 #### sql
 1. [입양시각2](https://school.programmers.co.kr/learn/courses/30/lessons/59413)
-
+2. [재구매](https://school.programmers.co.kr/learn/courses/30/lessons/131536)
+3. [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)
