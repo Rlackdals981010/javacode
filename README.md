@@ -129,3 +129,11 @@
 1. [입양시각2](https://school.programmers.co.kr/learn/courses/30/lessons/59413)
 2. [재구매](https://school.programmers.co.kr/learn/courses/30/lessons/131536)
 3. [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)
+
+---
+**20240807**
+#### 자바
+1. [신고결과받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+
+#### sql
+1. [조건에 부합하는 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/164670)
