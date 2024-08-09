@@ -131,9 +131,17 @@
 3. [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)
 
 ---
-**20240807**
+**20240808**
 #### 자바
 1. [신고결과받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 
 #### sql
 1. [조건에 부합하는 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/164670)
+---
+**20240809**
+#### 자바
+1. [제출내역](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+
+#### sql
+1. [조건 부합 중고 상태](https://school.programmers.co.kr/learn/courses/30/lessons/164672)
+2. [특정 옵션 자동차 리스트](https://school.programmers.co.kr/learn/courses/30/lessons/157343)
