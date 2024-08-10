@@ -145,3 +145,9 @@
 #### sql
 1. [조건 부합 중고 상태](https://school.programmers.co.kr/learn/courses/30/lessons/164672)
 2. [특정 옵션 자동차 리스트](https://school.programmers.co.kr/learn/courses/30/lessons/157343)
+
+---
+
+**20240810**
+#### 자바
+1. [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
