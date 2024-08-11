@@ -1,3 +1,5 @@
+package code202407;
+
 public class q41 {
     class Solution {
         public String solution(String s) {

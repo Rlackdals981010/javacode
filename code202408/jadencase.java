@@ -1,3 +1,5 @@
+package code202408;
+
 import java.util.*;
 class jadencase {
     public String solution(String s) {

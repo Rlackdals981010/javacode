@@ -6,7 +6,7 @@
 ---
 
 
-**20240725** 
+**code202407.20240725** 
 
 1. [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
 2. [크기가 작은 부분](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
@@ -17,14 +17,14 @@
 
 ---
 
-**20240726**
+**code202407.20240726**
 
 1. [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
 2. [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
 
 ---
 
-**20240728**
+**code202407.20240728**
 #### 자바
 1. [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
 2. [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
@@ -35,7 +35,7 @@
 
 ---
 
-**20240729**
+**code202407.20240729**
 #### 자바
 1. [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
 2. [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
@@ -51,7 +51,7 @@
 
 ---
 
-**20240730**
+**code202407.20240730**
 #### 자바
 1. [문자열나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
 2. [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
@@ -62,7 +62,7 @@
 
 ---
 
-**20240731**
+**code202407.20240731**
 #### 자바
 1. [대충만든자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
 #### sql
@@ -151,3 +151,8 @@
 **20240810**
 #### 자바
 1. [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+
+----
+**20240811**
+#### 자바 
+1. [이진변환반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
