@@ -163,3 +163,4 @@
 
 #### sql
 1. [취소되지않은 진료](https://school.programmers.co.kr/learn/courses/30/lessons/132204)
+2. [자동차 대여](https://school.programmers.co.kr/learn/courses/30/lessons/157340)
