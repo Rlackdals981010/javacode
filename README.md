@@ -156,3 +156,10 @@
 **20240811**
 #### 자바 
 1. [이진변환반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
+----
+**20240812**
+#### 자바
+1. [피보나치](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+
+#### sql
+1. [취소되지않은 진료](https://school.programmers.co.kr/learn/courses/30/lessons/132204)
