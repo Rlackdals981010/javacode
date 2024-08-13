@@ -164,3 +164,10 @@
 #### sql
 1. [취소되지않은 진료](https://school.programmers.co.kr/learn/courses/30/lessons/132204)
 2. [자동차 대여](https://school.programmers.co.kr/learn/courses/30/lessons/157340)
+
+**20240813**
+#### 자바
+1. [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+
+#### sql
+1. [년월거래](https://school.programmers.co.kr/learn/courses/30/lessons/131532)
