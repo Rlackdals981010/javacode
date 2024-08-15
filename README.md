@@ -179,3 +179,8 @@
 #### sql
 1. [대여홧수많은자동차](https://school.programmers.co.kr/learn/courses/30/lessons/151139)
 
+---
+**20240815**
+#### 자바
+1. [N개 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
+
