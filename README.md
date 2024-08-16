@@ -188,4 +188,6 @@
 **20240816**
 #### 자바
 1. [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
+#### sql
+1. [그룹별조건식당](https://school.programmers.co.kr/learn/courses/30/lessons/131124)
 
