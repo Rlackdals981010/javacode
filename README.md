@@ -191,3 +191,8 @@
 #### sql
 1. [그룹별조건식당](https://school.programmers.co.kr/learn/courses/30/lessons/131124)
 
+---
+**20240817**
+#### 자바
+1. [귤고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
+
