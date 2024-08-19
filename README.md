@@ -200,3 +200,11 @@
 **20240818**
 #### 자바
 1. [괄호회전](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
+
+---
+**20240819**
+#### 자바
+1. [연속수열](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
+#### sql
+1. [자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141)
+
