@@ -1,3 +1,7 @@
+백준 허브라는 아주 좋은 자동화 커밋 확장 프로그램을 알아버렸다.
+앞으로 업로드는 백준 허브를 통해서 업로드 될것.
+
+---
 # javacode
 
 1. [Q41](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
