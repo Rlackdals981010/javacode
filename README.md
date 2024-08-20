@@ -208,3 +208,10 @@
 #### sql
 1. [자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141)
 
+---
+**20240820**
+#### 자바
+1. [hindex](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+#### sql
+1. [상품 구매 회원 비율](https://school.programmers.co.kr/learn/courses/30/lessons/131534)
+
