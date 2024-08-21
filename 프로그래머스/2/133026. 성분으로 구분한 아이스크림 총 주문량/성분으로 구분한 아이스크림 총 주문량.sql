@@ -1,0 +1,5 @@
+-- 코드를 입력하세요
+SELECT ii.INGREDIENT_TYPE, sum(TOTAL_ORDER) TOTAL_ORDER
+from FIRST_HALF fh right join ICECREAM_INFO ii on fh.FLAVOR=ii.FLAVOR
+group by ii.INGREDIENT_TYPE
+order by TOTAL_ORDER
