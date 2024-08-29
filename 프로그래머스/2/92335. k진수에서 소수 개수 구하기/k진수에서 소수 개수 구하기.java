@@ -4,7 +4,7 @@ class Solution {
         String transNum = Integer.toString(n, k);
         String[] transNumArr = transNum.split("0+"); //1001 -> [1],[1]
         for(String use :transNumArr){
-            if(!use.isEmpty()&&check(Long.parseLong(use))){
+            if(check(Long.parseLong(use))){
                 ret++;
             }
         }
