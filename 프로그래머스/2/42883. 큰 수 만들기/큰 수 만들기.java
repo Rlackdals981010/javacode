@@ -1,20 +1,27 @@
-class Solution {    
+import java.util.*;
+class Solution {
     public String solution(String number, int k) {
-        StringBuilder ret = new StringBuilder();  
-        int idx = 0;   // 지금
-        int maxLen = number.length() - k;  
+        Stack<Character> stack = new Stack<>();
         
-        for (int i = 0; i < maxLen; i++) {
-            char max = '0';  
-            for (int j = idx; j <= k + i; j++) {  // max의 인덱스 다음부터
-                if (number.charAt(j) > max) {
-                    max = number.charAt(j);
-                    idx = j + 1;  
-                }
+        for (int i = 0; i < number.length(); i++) {
+            char current = number.charAt(i);           
+            while (!stack.isEmpty() && stack.peek() < current && k > 0) {
+                stack.pop();
+                k--;
             }
-            ret.append(max); 
+            stack.push(current);
+        }
+
+        while (k > 0) {
+            stack.pop();
+            k--;
+        }
+
+        StringBuilder result = new StringBuilder();
+        for (char digit : stack) {
+            result.append(digit);
         }
         
-        return ret.toString(); 
+        return result.toString();
     }
 }
