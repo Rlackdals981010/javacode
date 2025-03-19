@@ -1,47 +1,37 @@
 import java.util.*;
 class Solution {
-    
-    static boolean[] visited;
-    static Set<Integer> primes = new HashSet<>();
-    
-    public int solution(String numbers) {       
-        String[] arr = numbers.split("");
-        visited = new boolean[arr.length];
+    public int solution(String numbers) {
+        Set<Integer> numberSet = new HashSet<>();
+        boolean[] visited = new boolean[numbers.length()];
+        findNumber(numberSet,"",visited,numbers);
         
-        // 모든 자리수 조합으로 소수 찾기
-        for (int i = 0; i < arr.length; i++) {
-            visited[i]=true;
-            dfs(arr, arr[i]);
-            visited[i]=false;
-        }  
+        int ret =0;
+        for(Integer use : numberSet){
+            if(isPrime(use)){
+                ret++;
+            }
+        }
+        return ret;
         
-        return primes.size();
+        
     }
-    
-    private void dfs(String[] arr, String str){
-        int num = Integer.parseInt(str);
-        if(check(num)){
-            primes.add(num);
+    private void findNumber(Set<Integer> numberSet,String current,boolean[] visited, String numbers){
+        if(!current.isEmpty()){
+            numberSet.add(Integer.parseInt(current));
         }
         
-        if(str.length()==arr.length){
-            return;
-        }
-        
-        for(int i=0;i<arr.length;i++){
+        for(int i=0;i<numbers.length();i++){
             if(!visited[i]){
                 visited[i]=true;
-                dfs(arr,str+arr[i]);
+                findNumber(numberSet, current+numbers.charAt(i),visited, numbers);
                 visited[i]=false;
             }
         }
     }
-        
-    
-    private boolean check(int chk){
-        if (chk < 2) return false;
-        for(int i=2;i<=Math.sqrt(chk);i++){
-            if(chk%i==0) return false;
+    private boolean isPrime(int num){
+        if(num<2) return false;
+        for(int i=2;i*i<=num;i++){
+            if(num%i==0)return false;
         }
         return true;
     }
