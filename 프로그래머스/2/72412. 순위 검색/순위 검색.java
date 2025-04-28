@@ -47,7 +47,7 @@ class Solution {
 
     // lan, pos, his, food 조합을 하나의 비트마스크 정수로 변환
     private int encode(String l, String p, String h, String f) {
-        return (lan.get(l) << 6) | (pos.get(p) << 5) | (his.get(h) << 4) | (food.get(f) << 3);
+        return (lan.get(l) << 3) | (pos.get(p) << 2) | (his.get(h) << 1) | (food.get(f) << 0);
     }
 
     // query 읽고, 와일드카드(-)를 고려해서 가능한 모든 비트마스크 조합을 리스트로 뽑음
@@ -68,10 +68,10 @@ class Solution {
 
         if (q[idx].equals("-")) {
             for (int val : maps[idx].values()) {
-                dfs(idx + 1, bit | (val << (6 - idx)), q, bits);
+                dfs(idx + 1, bit | (val << (3 - idx)), q, bits);
             }
         } else {
-            dfs(idx + 1, bit | (maps[idx].get(q[idx]) << (6 - idx)), q, bits);
+            dfs(idx + 1, bit | (maps[idx].get(q[idx]) << (3 - idx)), q, bits);
         }
     }
 
