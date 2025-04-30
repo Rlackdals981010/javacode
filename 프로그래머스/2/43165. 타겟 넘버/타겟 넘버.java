@@ -14,7 +14,10 @@ class Solution {
             }
             else return 0;
         }
-        if (Math.abs(sum) > Math.abs(target) + remain) {
+        if (sum > target + remain) {
+            return 0;
+        }
+        if (sum < target - remain) {
             return 0;
         }
         return dfs(numbers,target,depth+1,sum+numbers[depth],remain-numbers[depth])+dfs(numbers,target,depth+1,sum-numbers[depth],remain-numbers[depth]);
